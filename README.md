@@ -1,8 +1,7 @@
 ### Olá, eu sou o Luiz Gustavo 👋
 
 
-- 🔭 Hoje trabalho com front-end (focado em Angular)
-- 🌱 Estudando Java
+- 🔭 Hoje trabalho com fullstrack (Node.js/React)
 
 <div align="center">
   <a href="https://github.com/luizsetten">
@@ -43,5 +42,5 @@
 <div style="display: inline_block"> 
   <a href="mailto:luizgustavosetten@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank" style="background: white;"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/luiz-setten/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luizsetten/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
